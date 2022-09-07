@@ -24,4 +24,4 @@ On second tab bar you can learn information about the IP address that you enter.
 
 
 
-<img width="369" alt="2" src="https://user-images.githubusercontent.com/79763515/188869696-23842393-bb0a-4569-a0b1-a3ceb73b29b6.png">
+<img width="358" alt="2" src="https://user-images.githubusercontent.com/79763515/188870798-1ed7fd71-bdc1-4b9f-af46-a22c1d086178.png">
