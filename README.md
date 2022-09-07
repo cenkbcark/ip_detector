@@ -7,6 +7,12 @@ It's a basic public IP detector which works with an API.
 <h2>Build</h2>
 
 ```html
+I've tried to work with network classes and modular design.
+```
+
+<h2>Content</h2>
+
+```html
 There are 2 tabs on app. First, allows you to learn your public IP address in a second.
 On second tab bar you can learn information about the IP address that you enter.
 ```
